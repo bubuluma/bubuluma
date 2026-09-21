@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @bubuluma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hi, I'm Rotondwa Bubuluma 👋
+Medical Scientist | Data Analytics | Bioinformatics | Genomics
 
-<!---
-bubuluma/bubuluma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Medical Scientist with a background in microbiology, medical virology and genomics, currently developing my skills in data analytics and data science.
+
+My interests sit at the intersection of biological data, genomics, healthcare and computational analysis.
+
+Technical interests
+SQL & MySQL
+R
+Python
+Data Analytics
+Statistical Analysis
+Data Visualisation
+Bioinformatics
+Genomics
+Next-generation sequencing
+Current focus
+
+I am building practical data science projects that combine my biological science background with computational and analytical skills.
+
